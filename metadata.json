@@ -1,0 +1,10 @@
+{
+  "name": "Bazamos Pay",
+  "description": "Uma plataforma profissional de classificados e pagamentos com design sofisticado, foco em segurança e anúncios VIP em 3D.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
